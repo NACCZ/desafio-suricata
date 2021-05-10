@@ -1,0 +1,31 @@
+
+    body {
+        font-family: 'Open Sans', sans-serif;
+        }
+        
+
+.tamaño{
+    width: 86;
+    height: 25;
+}
+
+.header{
+    color: #707070;
+}
+.logosuricata{
+    top: 12px;
+left: 119px;
+width: 132px;
+height: 53px;
+}
+
+
+.iconos{
+    display: inline-block;
+    margin-left: 30px;
+}
+
+.tamañofooter{
+    width: 50px;
+    height: 100px;
+    }
